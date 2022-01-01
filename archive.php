@@ -17,12 +17,7 @@ get_header();
 ?>
 
 	<div id="primary" class="g1-primary-max">
-		<div id="content" role="main">
-
-			<?php get_template_part('template-parts/archive/header', bimber_get_theme_option('archive', 'header_composition') ); ?>
-
-			
-		</div><!-- #content -->
+		
 	</div><!-- #primary -->
 
 <?php get_footer();
