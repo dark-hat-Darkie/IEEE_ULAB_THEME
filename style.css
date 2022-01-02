@@ -10,3 +10,11 @@ Tags:           fluid-layout, custom-colors, custom-menu, featured-images, post-
 */
 
 /* Place all your CSS modifications below */
+#lottie-home {
+    overflow: hidden;
+}
+
+#home-slider * {
+    color: inherit;
+    border-color: inherit;
+}
